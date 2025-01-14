@@ -1,0 +1,6 @@
+@EQ_Internship_HostAddress = http://localhost:5233
+
+GET {{EQ_Internship_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
